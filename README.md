@@ -26,3 +26,8 @@ If you would like to get an older version of the the binaries please use the fol
 
 To better understand how the Facebook sdk works, try reading  Facebook GRAPH API documentation
 https://developers.facebook.com/docs/graph-api/using-graph-api
+
+kubeadm join 192.168.1.12:6443 --token 490snz.eg3biu1sfttd4ccw \
+    --discovery-token-ca-cert-hash sha256:f43710902bb0b6508245a5aaf790bef42658408c1c7c64fcee3adbc7a8c6d561 
+
+
